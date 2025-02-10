@@ -30,6 +30,6 @@ jobs:
         with:
             # JMeter test plan to execute
             test-plan-path: './confirmation.php-89.jmx'
-            results-file: './confirmation.php-89.jmx'
+            results-file: './Results.jtl'
            
           
